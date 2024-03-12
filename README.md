@@ -1,2 +1,2 @@
 # Yelp_Review_NLP
-Training an NLP model to identify if a comment is positive,negative or neutral in context. Using Yelp Dataset for training and testing the model
+Training GPT3.5 turbo model from OpenAI for sentiment classification task. Using Yelp Dataset for training and testing the model.
